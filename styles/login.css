@@ -1,0 +1,80 @@
+.body {
+  background-color: #003046;
+  height: 100vh;
+}
+
+.h1-login {
+  color: #FDF0D5;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: #FDF0D5;
+  text-align: center;
+  margin-left: 110px;
+}
+
+.back-arrow .material-symbols-outlined {
+  color: #FDF0D5;
+  margin-left: 100%;
+}
+
+.login-row {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-self: center;
+}
+
+.first-layer {
+  background-color: #003046;
+}
+
+.login-section-1 {
+  background-color: #003046;
+  height: 20vh;
+}
+
+.h1-welcome {
+  font-size: 40px;
+  padding-top: 20px;
+}
+
+.login-section-2 {
+  background-color: #FDF0D5;
+  height: 80vh;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  padding-top: 30%;
+}
+
+input {
+  border: none;
+}
+
+.email-part hr {
+  width: 90%;
+}
+
+/* login.css */
+
+.material-symbols-outlined {
+  vertical-align: middle;
+}
+
+.email-part span {
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 2%;
+}
+
+.login-button {
+  margin-top: 5%;
+  background-color: #669BBC;
+  width: 50%;
+  height: 60px;
+  border-radius: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #FDF0D5;
+  border: none;
+}

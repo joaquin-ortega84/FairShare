@@ -1,0 +1,55 @@
+/* HomePage */
+.body-home-page {
+  background-color: aliceblue;
+  background-image: url('../front-end/images/home_img.png');
+  background-repeat: repeat;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* FairShare title */
+.h1-home-page {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: #FDF0D5;
+  text-align: center;
+  margin-top: 15%;
+}
+
+/* FairShare tag line */
+h4 {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #FDF0D5;
+  text-align: center;
+  margin-bottom: 45%;
+}
+
+/* Start now button */
+button {
+  background-color: #669BBC;
+  color: #FDF0D5;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 10%;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  border: none;
+  height: 60px;
+  border-radius: 30px;
+  }
+
+
+.login-button {
+  background-color: #297fb5;
+}

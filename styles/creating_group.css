@@ -1,0 +1,72 @@
+.body {
+  background-color: #003046;
+}
+
+.h1-creating-group {
+  color: #FDF0D5;
+}
+
+.form {
+  color: #FDF0D5;
+}
+
+
+.back-arrow .material-symbols-outlined {
+  color: #FDF0D5;
+}
+
+.go-back-title {
+  display: flex;
+  align-items: baseline; /* Align the elements vertically in the center */
+  margin-left: 10%;
+}
+
+.h1-creating-group {
+  margin-top: 1rem; /* Add some top margin to the h1 for spacing */
+  justify-content: center;
+  margin-left: 20%;
+}
+
+form {
+  margin-top: 5%;
+}
+
+.form label, .form input, .form select {
+  margin-left: 10%;
+
+}
+
+.form input[type=text] {
+  color: none;
+  background-color: #003046;
+  border: solid 2px;
+  border-bottom: solid 2px #FDF0D5; /* Add 'solid 2px' for border style and specify the color */
+  border-top: solid 2px #003046;
+  border-left: solid 2px #003046;
+  border-right: solid 2px #003046;
+  width: 80%;
+}
+
+.form select {
+  background-color: #003046;
+  color: #FDF0D5;
+}
+
+.members-begin {
+  margin-top: 10%;
+}
+
+.button {
+  width: 25vh;
+  height: 6vh;
+  border-radius: 15px;
+  font-size: large;
+  font-weight: bold;
+  border: none;
+}
+
+.button-container input {
+  margin: 0;
+  background-color: #669BBC;
+  color: #FDF0D5;
+}

@@ -1,0 +1,41 @@
+.body {
+  background-color: #003046;
+  height: 100vh;
+}
+
+.navbar {
+  background-color: #FDF0D5;
+}
+
+.navbar-brand {
+  color: #003046;
+}
+
+.user-card {
+  background-color: #FDF0D5;
+  margin: 2vh;
+  border-radius: 20px;
+  max-height: fit-content;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+
+img {
+  height: 10vh;
+  width: 10vh;
+  border-radius: 10px;
+}
+
+.col-user {
+  vertical-align: middle;
+}
+
+.overview {
+  color: #FDF0D5;
+}
+
+.hr-overview {
+  background-color: #FDF0D5;
+  height: 2px;
+  max-width: 80%;
+}
